@@ -11,6 +11,9 @@ namespace DemoTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello this is my first code to test only");
+
+            Console.WriteLine("This is the second line after first commit of code.");
+
             Console.ReadLine();
         }
     }
