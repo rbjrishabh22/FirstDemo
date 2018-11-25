@@ -1,0 +1,6 @@
+F:\CodePract\DemoTest\DemoTest\bin\Release\DemoTest.exe.config
+F:\CodePract\DemoTest\DemoTest\bin\Release\DemoTest.exe
+F:\CodePract\DemoTest\DemoTest\bin\Release\DemoTest.pdb
+F:\CodePract\DemoTest\DemoTest\obj\Release\DemoTest.csproj.CoreCompileInputs.cache
+F:\CodePract\DemoTest\DemoTest\obj\Release\DemoTest.exe
+F:\CodePract\DemoTest\DemoTest\obj\Release\DemoTest.pdb
